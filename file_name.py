@@ -3,8 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go 
 
 st.title("Stroke Prediction Dashboard") 
-st.markdown("The dashboard will help a researcher to get to know \ 
-more about the given datasets and it's output") 
+st.markdown("The dashboard will help a researcher to get to know more about the given datasets and it's output") 
 st.sidebar.title("Select Visual Charts") 
 st.sidebar.markdown("Select the Charts/Plots accordingly:") 
 
